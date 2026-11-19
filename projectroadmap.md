@@ -12,4 +12,4 @@
 
 ## Code Review Findings
 
-Add the results here after reviewing and trying to run BugTracker.
+I cloned and ran BugTracker. The home screen opened and showed three projects and their ticket counts. The startup file had comments explaining that it sets up the database and opens the home screen. In FixTrack, I’ll use the same idea of tracking each job as a ticket. Each repair will have its own record and status, and I’ll save the records in a JSON file.
